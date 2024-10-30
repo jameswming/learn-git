@@ -3,3 +3,4 @@ Confidential
 first submit issue1_ again
 new line from local device
 new line from remote device
+learn fetch from remote
